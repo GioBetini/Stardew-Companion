@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_npc"
+        android:title="@string/menuNpc" />
+    <item
+        android:id="@+id/menu_cadastro"
+        android:title="@string/menuCompanion" />
+    <item
+        android:id="@+id/menu_lavoura"
+        android:title="@string/menuCrop" />
+</menu>

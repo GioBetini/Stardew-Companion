@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TrabalhoSemestral</string>
+    <string name="inicio">Stardew Companion</string>
+    <string name="menuCompanion">Grimório</string>
+    <string name="abrirgrimorio">Abrir Grimório</string>
+    <string name="menuCrop">Lavoura</string>
+    <string name="menuNpc">NPC</string>
+    <string name="tvCadastroCrop">Cadastro de Lavoura</string>
+    <string name="tvCadastroNpc">Cadastro de NPC</string>
+    <string name="etIdCrop">Pág. do Grimório</string>
+    <string name="etIdNpc">Insira o ID</string>
+    <string name="rbFruit">Fruta</string>
+    <string name="rbVeg">Vegetal</string>
+    <string name="nameCrop">Nome da Lavoura</string>
+    <string name="daysCrop">Dias para colheita</string>
+    <string name="etNameNpc">Nome do NPC</string>
+    <string name="rbSeason">Escolha a estação</string>
+    <string name="tvSolteiroNpc">Solteiro?</string>
+    <string name="rbSimNpc">Sim</string>
+    <string name="rbNaoNpc">Não</string>
+    <string name="rbSpg">Primavera</string>
+    <string name="rbSum">Verão</string>
+    <string name="rbAut">Outono</string>
+    <string name="rbWin">Inverno</string>
+    <string name="etPrice">Preço de venda</string>
+    <string name="btnInserir">Inserir</string>
+    <string name="btnDeletar">Deletar</string>
+    <string name="btnAtualizar">Atualizar</string>
+    <string name="btnConsultar">Buscar</string>
+    <string name="btnVoltar">Voltar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
